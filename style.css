@@ -1,6 +1,9 @@
 body {
   margin: 0;
 }
+* {
+  box-sizing: border-box;
+}
 .blog-nav {
   line-height: 1;
   border-bottom: 1px solid #e5e5e5;
