@@ -62,7 +62,7 @@ body{
     flex: 0 0 100%;
   }
   .card {
-    border: 2px solid gray;
+    border: 2px solid rgb(2, 2, 2);
     
   }
   .card-content {
@@ -76,10 +76,10 @@ body{
     width: 300px;
   }
   .card2 {
-    background-color: green;
+    background-color: rgb(36, 34, 194);
   }
   .card2 button {
-    background-color: lightgreen;
+    background-color: lightblue;
    
   }
   p {
